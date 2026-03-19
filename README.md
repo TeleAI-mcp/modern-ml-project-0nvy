@@ -1,2 +1,3 @@
-# modern-ml-project-0nvy
-Automated issue comment bot repository
+# Modern Ml Project 0Nvy
+
+Automated issue comment bot repository.
